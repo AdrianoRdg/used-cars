@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "d2RpyDq5/ZbqETNttM4TZgTUfOqjjZTMVpX3goG2Z1k=",
+  "Source": "UsedCarsAPI",
+  "BasePath": "_content/UsedCarsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UsedCarsAPI\\wwwroot",
+      "Source": "UsedCarsAPI",
+      "ContentRoot": "C:\\Users\\adria\\Documents\\Projects\\UsedCarsAPI\\UsedCarsAPI\\wwwroot\\",
+      "BasePath": "_content/UsedCarsAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\adria\\Documents\\Projects\\UsedCarsAPI\\UsedCarsAPI\\wwwroot\\images\\edge-wallpaper.jpg",
+      "SourceId": "UsedCarsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Documents\\Projects\\UsedCarsAPI\\UsedCarsAPI\\wwwroot\\",
+      "BasePath": "_content/UsedCarsAPI",
+      "RelativePath": "images/edge-wallpaper.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\edge-wallpaper.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Documents\\Projects\\UsedCarsAPI\\UsedCarsAPI\\wwwroot\\images\\wallpaperflare.com_wallpaper.jpg",
+      "SourceId": "UsedCarsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Documents\\Projects\\UsedCarsAPI\\UsedCarsAPI\\wwwroot\\",
+      "BasePath": "_content/UsedCarsAPI",
+      "RelativePath": "images/wallpaperflare.com_wallpaper.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\wallpaperflare.com_wallpaper.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\adria\\Documents\\Projects\\UsedCarsAPI\\UsedCarsAPI\\wwwroot\\images\\edge-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\images\\edge-wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Documents\\Projects\\UsedCarsAPI\\UsedCarsAPI\\wwwroot\\images\\wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\images\\wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.UsedCarsAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.UsedCarsAPI.props",
+      "PackagePath": "build\\UsedCarsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.UsedCarsAPI.props",
+      "PackagePath": "buildMultiTargeting\\UsedCarsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.UsedCarsAPI.props",
+      "PackagePath": "buildTransitive\\UsedCarsAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
