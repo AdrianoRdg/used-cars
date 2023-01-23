@@ -1,7 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 using UsedCarsAPI.Models;
 using UsedCarsAPI.Repositories.Interfaces;
 
@@ -25,6 +23,7 @@ namespace UsedCarsAPI.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "manager")]
         public async Task<ActionResult<CarModel>> FindOneById(int id)
         {
             CarModel car = await _carRepository.FindOneById(id);

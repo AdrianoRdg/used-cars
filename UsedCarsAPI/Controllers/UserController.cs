@@ -28,5 +28,11 @@ namespace UsedCarsAPI.Controllers
             UserModel user = await _userRepository.FindUserById(id);
             return Ok(user);
         }
+        [HttpPost]
+        public async Task<ActionResult<UserModel>> Create([FromBody] UserModel userModel)
+        {
+            UserModel user = await _userRepository.Create(userModel);
+            return Ok(user);
+        }
     }
 }

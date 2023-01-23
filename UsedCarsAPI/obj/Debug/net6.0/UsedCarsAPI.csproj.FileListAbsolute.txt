@@ -65,4 +65,3 @@ C:\Users\adria\Documents\Projects\UsedCarsAPI\UsedCarsAPI\bin\Debug\net6.0\runti
 C:\Users\adria\Documents\Projects\UsedCarsAPI\UsedCarsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\adria\Documents\Projects\UsedCarsAPI\UsedCarsAPI\bin\Debug\net6.0\UsedCarsAPI.staticwebassets.runtime.json
 C:\Users\adria\Documents\Projects\UsedCarsAPI\UsedCarsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\adria\Documents\Projects\UsedCarsAPI\UsedCarsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
