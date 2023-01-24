@@ -1,0 +1,14 @@
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #181818;
+  height: 6rem;
+  margin-bottom: 4rem;
+  border-bottom: 0.01rem whitesmoke solid;
+}
+
+.header-item {
+  padding: 2rem;
+}
